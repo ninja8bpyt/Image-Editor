@@ -15,10 +15,10 @@ For more click help....</b>"""
 
 
 © @TroJanzHEX"""
-    ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
+    ABOUT_MSG = """⭕️<b>My Name : Image Editor Bot</b>
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Creator :</b> @Ninja8bpYt
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+⭕️<b>Channel :</b> <a href='https://t.me/bots_ki_duniya/'>@Bots_Ki_Duniya</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Image-Editor'>Click Here</a>"""
+⭕️<b>Source Code :</b> 👉 <a href='https://github.com/ninja8bpyt/Image-Editor'>Click Here</a>"""
